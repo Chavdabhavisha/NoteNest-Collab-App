@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+
+# Build files
+build/
+dist/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Vercel & Render related
+.vercel/
+.render/
+
+# Misc
+*.local
